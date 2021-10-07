@@ -5,7 +5,8 @@
 
 [![github](https://img.shields.io/badge/WYOS-v1.0-red.svg?style=flat-square)](https://github.com/wangfangchenfei/WYOS)
 [![github](https://img.shields.io/badge/license-MIT-orange?style=flat-square)](https://github.com/wangfangchenfei/WYOS/blob/main/LICENSE)
-[![github](https://img.shields.io/badge/platform-Windows7+%20%7C%20macOS%2014.0+-yellow.svg?style=flat-square)]
+![github](https://img.shields.io/badge/platform-Windows7+%20%7C%20macOS%2014.0+-yellow.svg?style=flat-square)
+
 <h4 align="center">Language&语言: English | 简体中文 </h4>
 
 > Lightweight operating system
