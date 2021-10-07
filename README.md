@@ -4,5 +4,5 @@
 <h1 align="center">WYOS</h1>
 <h4 align="center">Language&语言: English | 简体中文 </h4>
 
-> Exe to run a lightweight operating system
+> Run a lightweight operating system with exe
 
