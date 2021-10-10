@@ -9,6 +9,6 @@
 
 <h4 align="center">选择语言</h4> 
 <h4 align="center">Select language to start</h4> 
+<h4 align="center"><a href="https://github.com/wangfangchenfei/WYOS/">简体中文</a> | English</h4>
 
-[简体中文](http://localhost/) | [English]()
 > Lightweight operating system
