@@ -17,6 +17,8 @@
 
 <hr>
 
+<h4 align="center">本项目由wangfangchenfei拥有，未经允许不得复制logo，等内容</h4> 
+
 <h4 align="center">本系统仅支持中文</h4> 
 
 <hr>
