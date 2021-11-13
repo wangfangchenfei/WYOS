@@ -13,6 +13,11 @@
 
 <p align="center">This project is not open source</p>
 
-<p align="center">由wangfangchenfei制作团队研发</p>
+<p align="center">此项目不开源</p>
+
+<hr>
 
 <h4 align="center">本系统仅支持中文</h4> 
+
+<hr>
+
