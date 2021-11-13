@@ -11,9 +11,9 @@
 
 <hr>
 
-<p align="center">This project is not open source</p>
+<h4 align="center">This project is not open source</h4>
 
-<p align="center">此项目不开源</p>
+<h4 align="center">此项目不开源</h4>
 
 <hr>
 
