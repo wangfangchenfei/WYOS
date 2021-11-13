@@ -5,7 +5,7 @@
 
 [![github](https://img.shields.io/badge/WYOS-v1.0-red.svg?style=flat-square)](https://github.com/wangfangchenfei/WYOS)
 [![github](https://img.shields.io/badge/license-MIT-orange?style=flat-square)](https://github.com/wangfangchenfei/WYOS/blob/main/LICENSE)
-![github](https://img.shields.io/badge/platform-Windows7+%20%7C%20macOS%2014.0+-yellow.svg?style=flat-square)
+![github](https://img.shields.io/badge/platform-Windows7+%20%7C%20macOS%2010.0+-yellow.svg?style=flat-square)
 
 <h4 align="center">选择语言</h4> 
 <h4 align="center">Select language to start</h4> 
