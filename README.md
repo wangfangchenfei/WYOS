@@ -7,6 +7,12 @@
 [![github](https://img.shields.io/badge/license-MIT-orange?style=flat-square)](https://github.com/wangfangchenfei/WYOS/blob/main/LICENSE)
 ![github](https://img.shields.io/badge/platform-Windows7+%20%7C%20macOS%2010.0+-yellow.svg?style=flat-square)
 
-<p>Powered by wangfangchenfei</p>
+<p align="center">由wangfangchenfei制作团队研发</p>
+
+<hr>
+
+<p align="center">This project is not open source</p>
+
+<p align="center">由wangfangchenfei制作团队研发</p>
 
 <h4 align="center">本系统仅支持中文</h4> 
